@@ -19,3 +19,4 @@ else :
    print('i<1')
 
 print(r'Ru\noob')
+print('Ru\noob')

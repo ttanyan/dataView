@@ -7,7 +7,7 @@ print(keyword.kwlist)
 keyword.kwlist
 
 from sys import argv,path
-print('导入模块')
+print('导入模块');
 print('path:',path)
 i=1
 if i>1 :

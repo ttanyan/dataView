@@ -8,6 +8,7 @@ import time
 
 
 time.localtime(time.time())
+#表名
 current_data = time.strftime('%Y_%m_%d', time.localtime(time.time()))
 
 

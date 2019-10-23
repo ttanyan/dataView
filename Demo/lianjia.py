@@ -37,8 +37,11 @@ def get_house_href(total_page=2):
     i = 1
     while i < total_page:
         url = 'http://cq.lianjia.com/ershoufang/binjiang/pg' + str(i) + '/'
+        # 对url进行访问 page的数据格式为bytes类
         page = urllib.request.urlopen(url)
+        # 将page解析成"html.parser"
         soup = BeautifulSoup(page, "html.parser")
+        # 找到div和title元素的信息
         for title in soup.find_all('div', 'title'):
             print(type(title.a))
         i += 1

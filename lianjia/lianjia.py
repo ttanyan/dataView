@@ -22,15 +22,16 @@ I love animals. They taste delicious.
 ┃┫┫  ┃┫┫
 ┗┻┛  ┗┻┛
 """
-import re
-import sys
-import urllib.request, urllib.error, urllib.parse
-import time
-
 import datetime
+import re
+import time
+import urllib.error
+import urllib.parse
+import urllib.request
+
 from bs4 import BeautifulSoup
-from my_sqldb import insert_info, update_info, get_row, create_table
-import importlib
+
+from lianjia.my_sqldb import insert_info, update_info, get_row, create_table
 
 #importlib.reload(sys)
 #sys.setdefaultencoding('utf-8')
@@ -59,6 +60,7 @@ def get_house(location="yubei", current_id=1):
     total_page = 0  # 在这个区里一共有多少页房产信息
     url = 'http://cq.lianjia.com/ershoufang/' + location
     req = urllib.request.Request(url)
+    time.sleep(1)
     page = urllib.request.urlopen(req)
     soup = BeautifulSoup(page, "html.parser")
     if location == 'yubei':

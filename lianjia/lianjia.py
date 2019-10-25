@@ -121,7 +121,7 @@ def get_house(location="yubei", current_id=1):
             square = context.split('|')[1][:-3]  # 面积
             orientation = context.split('|')[2]  # 朝向
             year = context.split('|')[5]   # 年份
-            decr = context.split('|')[3]   # 年份
+            decr = context.split('|')[3]   # 描述
 
             # if '别墅' in house_type:
             #     house_type = context.split('|')[2]

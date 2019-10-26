@@ -1,0 +1,352 @@
+2019-10-26 10:54:07,029 - INFO - OK, start to crawl 重庆
+2019-10-26 12:06:45,927 - INFO - OK, start to crawl 重庆
+2019-10-26 12:07:37,820 - INFO - http://cq.ke.com/xiaoqu/dazhulin/
+2019-10-26 12:07:37,821 - INFO - http://cq.ke.com/xiaoqu/beibinlu/
+2019-10-26 12:07:37,822 - INFO - http://cq.ke.com/xiaoqu/dashiba/
+2019-10-26 12:07:37,823 - INFO - http://cq.ke.com/xiaoqu/dazhulin/
+2019-10-26 12:07:37,823 - INFO - http://cq.ke.com/xiaoqu/dashiba/
+2019-10-26 12:07:37,825 - INFO - http://cq.ke.com/xiaoqu/songshuqiao/
+2019-10-26 12:07:37,825 - INFO - http://cq.ke.com/xiaoqu/huahuiyuan/
+2019-10-26 12:07:37,826 - INFO - http://cq.ke.com/xiaoqu/jiazhou/
+2019-10-26 12:07:37,827 - INFO - http://cq.ke.com/xiaoqu/shimahe/
+2019-10-26 12:07:37,827 - INFO - http://cq.ke.com/xiaoqu/jiangbeizui/
+2019-10-26 12:07:37,827 - INFO - http://cq.ke.com/xiaoqu/longtousi/
+2019-10-26 12:07:37,827 - INFO - http://cq.ke.com/xiaoqu/wulidian1/
+2019-10-26 12:07:37,828 - INFO - http://cq.ke.com/xiaoqu/ranjiaba/
+2019-10-26 12:07:37,828 - INFO - http://cq.ke.com/xiaoqu/guanyinqiao/
+2019-10-26 12:07:37,828 - INFO - http://cq.ke.com/xiaoqu/huahuiyuan/
+2019-10-26 12:07:37,828 - INFO - http://cq.ke.com/xiaoqu/beihuan/
+2019-10-26 12:07:37,829 - INFO - http://cq.ke.com/xiaoqu/longxing/
+2019-10-26 12:07:37,829 - INFO - http://cq.ke.com/xiaoqu/huangnibang/
+2019-10-26 12:07:37,829 - INFO - http://cq.ke.com/xiaoqu/cuiyun/
+2019-10-26 12:07:37,829 - INFO - http://cq.ke.com/xiaoqu/hongensi/
+2019-10-26 12:07:37,830 - INFO - http://cq.ke.com/xiaoqu/caifuzhongxin1/
+2019-10-26 12:07:37,830 - INFO - http://cq.ke.com/xiaoqu/yuzui/
+2019-10-26 12:07:37,830 - INFO - http://cq.ke.com/xiaoqu/huayuanxincun/
+2019-10-26 12:07:37,830 - INFO - http://cq.ke.com/xiaoqu/huangnibang/
+2019-10-26 12:07:37,831 - INFO - http://cq.ke.com/xiaoqu/nanqiaosi/
+2019-10-26 12:07:37,832 - INFO - http://cq.ke.com/xiaoqu/longxing/
+2019-10-26 12:07:37,833 - INFO - http://cq.ke.com/xiaoqu/hongensi/
+2019-10-26 12:07:37,833 - INFO - http://cq.ke.com/xiaoqu/haierlu/
+2019-10-26 12:07:37,834 - INFO - http://cq.ke.com/xiaoqu/yuzui/
+2019-10-26 12:07:37,834 - INFO - http://cq.ke.com/xiaoqu/longtousi/
+2019-10-26 12:07:37,834 - INFO - http://cq.ke.com/xiaoqu/lijia/
+2019-10-26 12:07:37,834 - INFO - http://cq.ke.com/xiaoqu/qibozhongxin/
+2019-10-26 12:07:37,834 - INFO - http://cq.ke.com/xiaoqu/shizishan/
+2019-10-26 12:07:37,834 - INFO - http://cq.ke.com/xiaoqu/ranjiaba/
+2019-10-26 12:07:37,835 - INFO - http://cq.ke.com/xiaoqu/songshuqiao/
+2019-10-26 12:07:37,836 - INFO - http://cq.ke.com/xiaoqu/shuangbei/
+2019-10-26 12:07:37,836 - INFO - http://cq.ke.com/xiaoqu/huixing/
+2019-10-26 12:07:37,836 - INFO - http://cq.ke.com/xiaoqu/lianglu/
+2019-10-26 12:07:37,836 - INFO - http://cq.ke.com/xiaoqu/longxi/
+2019-10-26 12:07:37,836 - INFO - http://cq.ke.com/xiaoqu/yuanyang/
+2019-10-26 12:07:37,837 - INFO - http://cq.ke.com/xiaoqu/yuelai/
+2019-10-26 12:07:37,838 - INFO - http://cq.ke.com/xiaoqu/konggangxincheng/
+2019-10-26 12:07:37,838 - INFO - http://cq.ke.com/xiaoqu/yuanboyuan/
+2019-10-26 12:07:37,840 - INFO - http://cq.ke.com/xiaoqu/renhe/
+2019-10-26 12:07:37,840 - INFO - http://cq.ke.com/xiaoqu/xinpaifang/
+2019-10-26 12:07:37,843 - INFO - http://cq.ke.com/xiaoqu/zhongyanggongyuan/
+2019-10-26 12:07:37,844 - INFO - http://cq.ke.com/xiaoqu/nanqiaosi/
+2019-10-26 12:07:37,848 - INFO - http://cq.ke.com/xiaoqu/zhaomushan/
+2019-10-26 12:07:37,849 - INFO - http://cq.ke.com/xiaoqu/shizishan/
+2019-10-26 12:07:37,849 - INFO - http://cq.ke.com/xiaoqu/jiazhou/
+2019-10-26 12:07:39,834 - INFO - OK, start to crawl 重庆
+2019-10-26 12:07:41,879 - INFO - Finish crawl area: shizishan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_shizishan.csv
+2019-10-26 12:07:41,903 - INFO - http://cq.ke.com/xiaoqu/bagongli/
+2019-10-26 12:07:42,857 - INFO - Finish crawl area: caifuzhongxin1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_caifuzhongxin1.csv
+2019-10-26 12:07:42,858 - INFO - http://cq.ke.com/xiaoqu/chayuanxinqu/
+2019-10-26 12:07:43,708 - INFO - Finish crawl area: longxing, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_longxing.csv
+2019-10-26 12:07:43,709 - INFO - http://cq.ke.com/xiaoqu/danlonglu/
+2019-10-26 12:07:46,696 - INFO - Finish crawl area: nanqiaosi, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_nanqiaosi.csv
+2019-10-26 12:07:46,697 - INFO - http://cq.ke.com/xiaoqu/danzishi/
+2019-10-26 12:07:47,071 - INFO - Finish crawl area: longxing, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_longxing.csv
+2019-10-26 12:07:47,073 - INFO - http://cq.ke.com/xiaoqu/liugongli/
+2019-10-26 12:07:47,707 - INFO - Finish crawl area: beibinlu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangbei_beibinlu.csv
+2019-10-26 12:07:47,708 - INFO - http://cq.ke.com/xiaoqu/nanbinlu/
+2019-10-26 12:07:48,084 - INFO - Finish crawl area: danlonglu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/nanan_danlonglu.csv
+2019-10-26 12:07:48,085 - INFO - http://cq.ke.com/xiaoqu/nanping/
+2019-10-26 12:07:48,914 - INFO - Finish crawl area: yuelai, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_yuelai.csv
+2019-10-26 12:07:48,919 - INFO - http://cq.ke.com/xiaoqu/nanshan3/
+2019-10-26 12:07:49,691 - INFO - Finish crawl area: beihuan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_beihuan.csv
+2019-10-26 12:07:49,692 - INFO - http://cq.ke.com/xiaoqu/qigongli/
+2019-10-26 12:07:50,321 - INFO - Finish crawl area: liugongli, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/nanan_liugongli.csv
+2019-10-26 12:07:50,323 - INFO - http://cq.ke.com/xiaoqu/rongqiaobandao/
+2019-10-26 12:07:50,348 - INFO - Finish crawl area: dazhulin, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_dazhulin.csv
+2019-10-26 12:07:50,349 - INFO - http://cq.ke.com/xiaoqu/sigongli/
+2019-10-26 12:07:50,844 - INFO - Finish crawl area: songshuqiao, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_songshuqiao.csv
+2019-10-26 12:07:50,845 - INFO - http://cq.ke.com/xiaoqu/bagongli/
+2019-10-26 12:07:51,221 - INFO - Finish crawl area: huayuanxincun, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_huayuanxincun.csv
+2019-10-26 12:07:51,222 - INFO - http://cq.ke.com/xiaoqu/chayuanxinqu/
+2019-10-26 12:07:51,327 - INFO - Finish crawl area: huangnibang, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_huangnibang.csv
+2019-10-26 12:07:51,328 - INFO - http://cq.ke.com/xiaoqu/jieshi/
+2019-10-26 12:07:52,134 - INFO - Finish crawl area: nanqiaosi, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_nanqiaosi.csv
+2019-10-26 12:07:52,134 - INFO - http://cq.ke.com/xiaoqu/lijiatuo1/
+2019-10-26 12:07:52,248 - INFO - Finish crawl area: yuzui, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_yuzui.csv
+2019-10-26 12:07:52,249 - INFO - http://cq.ke.com/xiaoqu/longzhouwan/
+2019-10-26 12:07:53,036 - INFO - Finish crawl area: hongensi, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_hongensi.csv
+2019-10-26 12:07:53,037 - INFO - http://cq.ke.com/xiaoqu/nanquan/
+2019-10-26 12:07:53,843 - INFO - Finish crawl area: ranjiaba, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_ranjiaba.csv
+2019-10-26 12:07:53,845 - INFO - http://cq.ke.com/xiaoqu/ronghuibandao/
+2019-10-26 12:07:54,497 - INFO - Finish crawl area: longxi, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_longxi.csv
+2019-10-26 12:07:54,499 - INFO - http://cq.ke.com/xiaoqu/yudong2/
+2019-10-26 12:07:54,655 - INFO - Finish crawl area: cuiyun, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_cuiyun.csv
+2019-10-26 12:07:54,658 - INFO - http://cq.ke.com/xiaoqu/bishan1/
+2019-10-26 12:07:54,707 - INFO - Finish crawl area: jieshi, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/banan_jieshi.csv
+2019-10-26 12:07:54,708 - INFO - http://cq.ke.com/xiaoqu/chenjiaqiao/
+2019-10-26 12:07:55,097 - INFO - Finish crawl area: jiangbeizui, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangbei_jiangbeizui.csv
+2019-10-26 12:07:55,099 - INFO - http://cq.ke.com/xiaoqu/ciqikou/
+2019-10-26 12:07:55,426 - INFO - Finish crawl area: shuangbei, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_shuangbei.csv
+2019-10-26 12:07:55,427 - INFO - http://cq.ke.com/xiaoqu/daping/
+2019-10-26 12:07:56,169 - INFO - Finish crawl area: yuanboyuan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_yuanboyuan.csv
+2019-10-26 12:07:56,174 - INFO - http://cq.ke.com/xiaoqu/daxuecheng2/
+2019-10-26 12:07:56,357 - INFO - Finish crawl area: ranjiaba, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_ranjiaba.csv
+2019-10-26 12:07:56,359 - INFO - http://cq.ke.com/xiaoqu/fengtianlu/
+2019-10-26 12:07:56,485 - INFO - Finish crawl area: yuzui, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_yuzui.csv
+2019-10-26 12:07:56,487 - INFO - http://cq.ke.com/xiaoqu/gongrencun/
+2019-10-26 12:07:56,589 - INFO - Finish crawl area: shizishan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_shizishan.csv
+2019-10-26 12:07:56,591 - INFO - http://cq.ke.com/xiaoqu/hualongqiao/
+2019-10-26 12:07:56,830 - INFO - Finish crawl area: songshuqiao, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_songshuqiao.csv
+2019-10-26 12:07:56,831 - INFO - http://cq.ke.com/xiaoqu/laodonglu/
+2019-10-26 12:07:57,180 - INFO - Finish crawl area: qigongli, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/nanan_qigongli.csv
+2019-10-26 12:07:57,181 - INFO - http://cq.ke.com/xiaoqu/lieshimu/
+2019-10-26 12:07:57,440 - INFO - Finish crawl area: dashiba, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_dashiba.csv
+2019-10-26 12:07:57,442 - INFO - http://cq.ke.com/xiaoqu/lishuwan/
+2019-10-26 12:07:57,518 - INFO - Finish crawl area: bagongli, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/banan_bagongli.csv
+2019-10-26 12:07:57,520 - INFO - http://cq.ke.com/xiaoqu/sanxiaguangchang/
+2019-10-26 12:07:58,441 - INFO - Finish crawl area: nanquan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/banan_nanquan.csv
+2019-10-26 12:07:58,444 - INFO - http://cq.ke.com/xiaoqu/shabinlu/
+2019-10-26 12:07:59,253 - INFO - Finish crawl area: bagongli, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/banan_bagongli.csv
+2019-10-26 12:07:59,257 - INFO - http://cq.ke.com/xiaoqu/shazhengjie/
+2019-10-26 12:07:59,744 - INFO - Finish crawl area: hongensi, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_hongensi.csv
+2019-10-26 12:07:59,746 - INFO - http://cq.ke.com/xiaoqu/shiqiaopu/
+2019-10-26 12:07:59,904 - INFO - Finish crawl area: huahuiyuan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_huahuiyuan.csv
+2019-10-26 12:07:59,905 - INFO - http://cq.ke.com/xiaoqu/shuangbei/
+2019-10-26 12:08:00,603 - INFO - Finish crawl area: haierlu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangbei_haierlu.csv
+2019-10-26 12:08:00,606 - INFO - http://cq.ke.com/xiaoqu/tianxingqiao/
+2019-10-26 12:08:00,722 - INFO - Finish crawl area: dazhulin, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_dazhulin.csv
+2019-10-26 12:08:00,723 - INFO - http://cq.ke.com/xiaoqu/xiaolongkan/
+2019-10-26 12:08:01,553 - INFO - Finish crawl area: yuanyang, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_yuanyang.csv
+2019-10-26 12:08:01,554 - INFO - http://cq.ke.com/xiaoqu/xiyong/
+2019-10-26 12:08:01,896 - INFO - Finish crawl area: huahuiyuan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_huahuiyuan.csv
+2019-10-26 12:08:01,897 - INFO - http://cq.ke.com/xiaoqu/yanggongqiao/
+2019-10-26 12:08:03,935 - INFO - Finish crawl area: xinpaifang, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_xinpaifang.csv
+2019-10-26 12:08:03,936 - INFO - http://cq.ke.com/xiaoqu/yubeilu/
+2019-10-26 12:08:05,053 - INFO - Finish crawl area: shabinlu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_shabinlu.csv
+2019-10-26 12:08:05,054 - INFO - http://cq.ke.com/xiaoqu/zhanxilu/
+2019-10-26 12:08:05,307 - INFO - Finish crawl area: huangnibang, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_huangnibang.csv
+2019-10-26 12:08:05,312 - INFO - http://cq.ke.com/xiaoqu/baguocheng/
+2019-10-26 12:08:05,778 - INFO - Finish crawl area: sigongli, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/nanan_sigongli.csv
+2019-10-26 12:08:05,780 - INFO - http://cq.ke.com/xiaoqu/baishiyi/
+2019-10-26 12:08:06,119 - INFO - Finish crawl area: jiazhou, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_jiazhou.csv
+2019-10-26 12:08:06,120 - INFO - Finish crawl area: shimahe, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangbei_shimahe.csv
+2019-10-26 12:08:06,120 - INFO - http://cq.ke.com/xiaoqu/binjiangxincheng2/
+2019-10-26 12:08:06,122 - INFO - http://cq.ke.com/xiaoqu/caiyunhu/
+2019-10-26 12:08:06,491 - INFO - Finish crawl area: jiazhou, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_jiazhou.csv
+2019-10-26 12:08:06,493 - INFO - http://cq.ke.com/xiaoqu/chenjiaping/
+2019-10-26 12:08:06,635 - INFO - Finish crawl area: lijia, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_lijia.csv
+2019-10-26 12:08:06,636 - INFO - http://cq.ke.com/xiaoqu/daping/
+2019-10-26 12:08:07,085 - INFO - Finish crawl area: ciqikou, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_ciqikou.csv
+2019-10-26 12:08:07,086 - INFO - http://cq.ke.com/xiaoqu/dongbuxincheng/
+2019-10-26 12:08:08,761 - INFO - Finish crawl area: hualongqiao, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yuzhong_hualongqiao.csv
+2019-10-26 12:08:08,762 - INFO - http://cq.ke.com/xiaoqu/dongwuyuan1/
+2019-10-26 12:08:08,823 - INFO - Finish crawl area: yanggongqiao, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_yanggongqiao.csv
+2019-10-26 12:08:08,825 - INFO - http://cq.ke.com/xiaoqu/erlang/
+2019-10-26 12:08:08,872 - INFO - Finish crawl area: zhongyanggongyuan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_zhongyanggongyuan.csv
+2019-10-26 12:08:08,874 - INFO - http://cq.ke.com/xiaoqu/fengtianlu/
+2019-10-26 12:08:09,008 - INFO - Finish crawl area: baguocheng, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dadukou_baguocheng.csv
+2019-10-26 12:08:09,009 - INFO - http://cq.ke.com/xiaoqu/huangjueping/
+2019-10-26 12:08:09,449 - INFO - Finish crawl area: caiyunhu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiulongpo_caiyunhu.csv
+2019-10-26 12:08:09,450 - INFO - http://cq.ke.com/xiaoqu/huayan/
+2019-10-26 12:08:09,926 - INFO - Finish crawl area: zhanxilu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_zhanxilu.csv
+2019-10-26 12:08:09,928 - INFO - http://cq.ke.com/xiaoqu/jiangjinjiaoxian/
+2019-10-26 12:08:10,150 - INFO - Finish crawl area: gongrencun, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_gongrencun.csv
+2019-10-26 12:08:10,152 - INFO - http://cq.ke.com/xiaoqu/maoxiangou/
+2019-10-26 12:08:10,635 - INFO - Finish crawl area: lieshimu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_lieshimu.csv
+2019-10-26 12:08:10,639 - INFO - http://cq.ke.com/xiaoqu/mawangxiang/
+2019-10-26 12:08:10,666 - INFO - Finish crawl area: qibozhongxin, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_qibozhongxin.csv
+2019-10-26 12:08:10,668 - INFO - http://cq.ke.com/xiaoqu/panlong1/
+2019-10-26 12:08:10,679 - INFO - Finish crawl area: laodonglu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_laodonglu.csv
+2019-10-26 12:08:10,683 - INFO - http://cq.ke.com/xiaoqu/shipingqiao/
+2019-10-26 12:08:11,680 - INFO - Finish crawl area: dongwuyuan1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiulongpo_dongwuyuan1.csv
+2019-10-26 12:08:11,681 - INFO - http://cq.ke.com/xiaoqu/shiqiaopu/
+2019-10-26 12:08:12,387 - INFO - Finish crawl area: dashiba, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_dashiba.csv
+2019-10-26 12:08:12,389 - INFO - http://cq.ke.com/xiaoqu/shuangshan/
+2019-10-26 12:08:13,864 - INFO - Finish crawl area: ronghuibandao, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/banan_ronghuibandao.csv
+2019-10-26 12:08:13,866 - INFO - http://cq.ke.com/xiaoqu/xiejiawan/
+2019-10-26 12:08:14,356 - INFO - Finish crawl area: baishiyi, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dadukou_baishiyi.csv
+2019-10-26 12:08:14,357 - INFO - http://cq.ke.com/xiaoqu/xipeng/
+2019-10-26 12:08:14,643 - INFO - Finish crawl area: nanbinlu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/nanan_nanbinlu.csv
+2019-10-26 12:08:14,643 - INFO - http://cq.ke.com/xiaoqu/xiyong/
+2019-10-26 12:08:14,825 - INFO - Finish crawl area: lishuwan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_lishuwan.csv
+2019-10-26 12:08:14,826 - INFO - http://cq.ke.com/xiaoqu/yangjiaping/
+2019-10-26 12:08:15,583 - INFO - Finish crawl area: shazhengjie, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_shazhengjie.csv
+2019-10-26 12:08:15,585 - INFO - http://cq.ke.com/xiaoqu/yuanjiagang/
+2019-10-26 12:08:15,929 - INFO - Finish crawl area: chenjiaping, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiulongpo_chenjiaping.csv
+2019-10-26 12:08:15,931 - INFO - http://cq.ke.com/xiaoqu/chaotianmen/
+2019-10-26 12:08:16,238 - INFO - Finish crawl area: binjiangxincheng2, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangjing_binjiangxincheng2.csv
+2019-10-26 12:08:16,239 - INFO - http://cq.ke.com/xiaoqu/daping/
+2019-10-26 12:08:16,530 - INFO - Finish crawl area: longzhouwan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/banan_longzhouwan.csv
+2019-10-26 12:08:16,532 - INFO - http://cq.ke.com/xiaoqu/hualongqiao/
+2019-10-26 12:08:17,049 - INFO - http://cq.ke.com/xiaoqu/jiefangbei1/
+2019-10-26 12:08:18,147 - INFO - Finish crawl area: chenjiaqiao, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_chenjiaqiao.csv
+2019-10-26 12:08:18,149 - INFO - http://cq.ke.com/xiaoqu/lianglukou/
+2019-10-26 12:08:18,196 - INFO - Finish crawl area: shuangbei, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_shuangbei.csv
+2019-10-26 12:08:18,197 - INFO - http://cq.ke.com/xiaoqu/shangqingsi/
+2019-10-26 12:08:19,573 - INFO - Finish crawl area: nanshan3, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/nanan_nanshan3.csv
+2019-10-26 12:08:19,574 - INFO - http://cq.ke.com/xiaoqu/shiqiaopu/
+2019-10-26 12:08:19,973 - INFO - Finish crawl area: jiangjinjiaoxian, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangjing_jiangjinjiaoxian.csv
+2019-10-26 12:08:19,975 - INFO - http://cq.ke.com/xiaoqu/yuanjiagang/
+2019-10-26 12:08:20,726 - INFO - Finish crawl area: shuangshan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dadukou_shuangshan.csv
+2019-10-26 12:08:20,727 - INFO - http://cq.ke.com/xiaoqu/baguocheng/
+2019-10-26 12:08:20,913 - INFO - Finish crawl area: huangjueping, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiulongpo_huangjueping.csv
+2019-10-26 12:08:20,915 - INFO - http://cq.ke.com/xiaoqu/baishiyi/
+2019-10-26 12:08:21,040 - INFO - Finish crawl area: maoxiangou, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiulongpo_maoxiangou.csv
+2019-10-26 12:08:21,041 - INFO - http://cq.ke.com/xiaoqu/buxingjie/
+2019-10-26 12:08:22,793 - INFO - Finish crawl area: sanxiaguangchang, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_sanxiaguangchang.csv
+2019-10-26 12:08:22,795 - INFO - http://cq.ke.com/xiaoqu/dadukouqufu/
+2019-10-26 12:08:23,072 - INFO - Finish crawl area: yubeilu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_yubeilu.csv
+2019-10-26 12:08:23,073 - INFO - http://cq.ke.com/xiaoqu/huayan/
+2019-10-26 12:08:23,108 - INFO - Finish crawl area: danzishi, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/nanan_danzishi.csv
+2019-10-26 12:08:23,109 - INFO - http://cq.ke.com/xiaoqu/jianshecun/
+2019-10-26 12:08:24,665 - INFO - Finish crawl area: wulidian1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangbei_wulidian1.csv
+2019-10-26 12:08:24,666 - INFO - http://cq.ke.com/xiaoqu/jiugongmiao/
+2019-10-26 12:08:24,726 - INFO - Finish crawl area: zhaomushan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_zhaomushan.csv
+2019-10-26 12:08:24,728 - INFO - http://cq.ke.com/xiaoqu/mawangxiang/
+2019-10-26 12:08:25,352 - INFO - Finish crawl area: rongqiaobandao, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/nanan_rongqiaobandao.csv
+2019-10-26 12:08:25,352 - INFO - http://cq.ke.com/xiaoqu/shuangshan/
+2019-10-26 12:08:27,037 - INFO - Finish crawl area: chaotianmen, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yuzhong_chaotianmen.csv
+2019-10-26 12:08:27,038 - INFO - http://cq.ke.com/xiaoqu/xipeng/
+2019-10-26 12:08:27,546 - INFO - Finish crawl area: fengtianlu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiulongpo_fengtianlu.csv
+2019-10-26 12:08:27,547 - INFO - http://cq.ke.com/xiaoqu/binjiangxincheng2/
+2019-10-26 12:08:28,190 - INFO - Finish crawl area: baguocheng, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dadukou_baguocheng.csv
+2019-10-26 12:08:28,192 - INFO - http://cq.ke.com/xiaoqu/binjiangzhonglu/
+2019-10-26 12:08:28,620 - INFO - Finish crawl area: longtousi, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_longtousi.csv
+2019-10-26 12:08:28,621 - INFO - http://cq.ke.com/xiaoqu/deganpianqu/
+2019-10-26 12:08:28,922 - INFO - Finish crawl area: longtousi, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_longtousi.csv
+2019-10-26 12:08:28,926 - INFO - http://cq.ke.com/xiaoqu/dongbuxincheng/
+2019-10-26 12:08:29,482 - INFO - Finish crawl area: yuanjiagang, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yuzhong_yuanjiagang.csv
+2019-10-26 12:08:29,483 - INFO - http://cq.ke.com/xiaoqu/dongmen1/
+2019-10-26 12:08:29,528 - INFO - http://cq.ke.com/xiaoqu/jiangjinjiaoxian/
+2019-10-26 12:08:29,653 - INFO - Finish crawl area: erlang, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiulongpo_erlang.csv
+2019-10-26 12:08:29,654 - INFO - http://cq.ke.com/xiaoqu/langshanpianqu/
+2019-10-26 12:08:30,342 - INFO - Finish crawl area: xiyong, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiulongpo_xiyong.csv
+2019-10-26 12:08:30,344 - INFO - http://cq.ke.com/xiaoqu/laochengqu/
+2019-10-26 12:08:30,462 - INFO - Finish crawl area: panlong1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiulongpo_panlong1.csv
+2019-10-26 12:08:30,464 - INFO - http://cq.ke.com/xiaoqu/xiangruipianqu/
+2019-10-26 12:08:30,578 - INFO - http://cq.ke.com/xiaoqu/xiduan/
+2019-10-26 12:08:30,621 - INFO - Finish crawl area: renhe, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_renhe.csv
+2019-10-26 12:08:30,622 - INFO - http://cq.ke.com/xiaoqu/beibeilaochengqu/
+2019-10-26 12:08:30,651 - INFO - Finish crawl area: jianshecun, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dadukou_jianshecun.csv
+2019-10-26 12:08:30,652 - INFO - http://cq.ke.com/xiaoqu/caijia/
+2019-10-26 12:08:32,164 - INFO - http://cq.ke.com/xiaoqu/chaoyangqu4/
+2019-10-26 12:08:32,319 - INFO - http://cq.ke.com/xiaoqu/chengbeixinqu/
+2019-10-26 12:08:32,383 - INFO - Finish crawl area: baishiyi, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dadukou_baishiyi.csv
+2019-10-26 12:08:32,386 - INFO - http://cq.ke.com/xiaoqu/chengnanxinqu/
+2019-10-26 12:08:33,472 - INFO - Finish crawl area: yuanjiagang, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yuzhong_yuanjiagang.csv
+2019-10-26 12:08:33,473 - INFO - http://cq.ke.com/xiaoqu/konggangxincheng/
+2019-10-26 12:08:33,502 - INFO - Finish crawl area: chayuanxinqu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/banan_chayuanxinqu.csv
+2019-10-26 12:08:33,505 - INFO - http://cq.ke.com/xiaoqu/xiema/
+2019-10-26 12:08:34,211 - INFO - Finish crawl area: binjiangxincheng2, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangjing_binjiangxincheng2.csv
+2019-10-26 12:08:34,214 - INFO - http://cq.ke.com/xiaoqu/kaizhouqu1/
+2019-10-26 12:08:34,301 - INFO - Finish crawl area: lianglu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_lianglu.csv
+2019-10-26 12:08:34,302 - INFO - http://cq.ke.com/xiaoqu/wanzhouqu/
+2019-10-26 12:08:35,396 - INFO - Finish crawl area: xiyong, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiulongpo_xiyong.csv
+2019-10-26 12:08:35,401 - INFO - http://cq.ke.com/xiaoqu/yunyang1/
+2019-10-26 12:08:35,508 - INFO - Finish crawl area: deganpianqu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangjing_deganpianqu.csv
+2019-10-26 12:08:35,511 - INFO - http://cq.ke.com/xiaoqu/wushanxian3/
+2019-10-26 12:08:35,551 - INFO - Finish crawl area: hualongqiao, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yuzhong_hualongqiao.csv
+2019-10-26 12:08:35,555 - INFO - http://cq.ke.com/xiaoqu/yunyang1/
+2019-10-26 12:08:36,626 - INFO - Finish crawl area: tianxingqiao, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_tianxingqiao.csv
+2019-10-26 12:08:36,629 - INFO - http://cq.ke.com/xiaoqu/xiushan/
+2019-10-26 12:08:36,764 - INFO - Finish crawl area: dongbuxincheng, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangjing_dongbuxincheng.csv
+2019-10-26 12:08:36,766 - INFO - http://cq.ke.com/xiaoqu/qianjiang1/
+2019-10-26 12:08:37,317 - INFO - Finish crawl area: dadukouqufu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dadukou_dadukouqufu.csv
+2019-10-26 12:08:37,318 - INFO - http://cq.ke.com/xiaoqu/dazu1/
+2019-10-26 12:08:37,917 - INFO - Finish crawl area: xiaolongkan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/shapingba_xiaolongkan.csv
+2019-10-26 12:08:37,920 - INFO - http://cq.ke.com/xiaoqu/rongchang/
+2019-10-26 12:08:39,582 - INFO - Finish crawl area: xiangruipianqu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangjing_xiangruipianqu.csv
+2019-10-26 12:08:39,584 - INFO - http://cq.ke.com/xiaoqu/pengshui/
+2019-10-26 12:08:39,741 - INFO - Finish crawl area: huayan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dadukou_huayan.csv
+2019-10-26 12:08:39,742 - INFO - http://cq.ke.com/xiaoqu/qianjiang1/
+2019-10-26 12:08:40,174 - INFO - Finish crawl area: jiangjinjiaoxian, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangjing_jiangjinjiaoxian.csv
+2019-10-26 12:08:40,178 - INFO - http://cq.ke.com/xiaoqu/shizhu1/
+2019-10-26 12:08:40,392 - INFO - Finish crawl area: shangqingsi, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yuzhong_shangqingsi.csv
+2019-10-26 12:08:40,394 - INFO - http://cq.ke.com/xiaoqu/wulongxian1/
+2019-10-26 12:08:40,451 - INFO - Finish crawl area: xiejiawan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiulongpo_xiejiawan.csv
+2019-10-26 12:08:40,453 - INFO - http://cq.ke.com/xiaoqu/liangping1/
+2019-10-26 12:08:40,604 - INFO - Finish crawl area: binjiangzhonglu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangjing_binjiangzhonglu.csv
+2019-10-26 12:08:40,605 - INFO - http://cq.ke.com/xiaoqu/shizhu1/
+2019-10-26 12:08:40,999 - INFO - http://cq.ke.com/xiaoqu/wanzhouqu/
+2019-10-26 12:08:41,139 - INFO - Finish crawl area: wushanxian3, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/fengjiexian_wushanxian3.csv
+2019-10-26 12:08:41,141 - INFO - http://cq.ke.com/xiaoqu/zhongxian1/
+2019-10-26 12:08:41,791 - INFO - Finish crawl area: lijiatuo1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/banan_lijiatuo1.csv
+2019-10-26 12:08:41,792 - INFO - http://cq.ke.com/xiaoqu/fengjie/
+2019-10-26 12:08:42,182 - INFO - Finish crawl area: xiema, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/beibei_xiema.csv
+2019-10-26 12:08:42,188 - INFO - http://cq.ke.com/xiaoqu/wushanxian3/
+2019-10-26 12:08:42,426 - INFO - Finish crawl area: huayan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dadukou_huayan.csv
+2019-10-26 12:08:42,427 - INFO - http://cq.ke.com/xiaoqu/yunyang1/
+2019-10-26 12:08:42,452 - INFO - Finish crawl area: mawangxiang, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dadukou_mawangxiang.csv
+2019-10-26 12:08:42,454 - INFO - http://cq.ke.com/xiaoqu/dianjiangxian1/
+2019-10-26 12:08:43,198 - INFO - http://cq.ke.com/xiaoqu/liangping1/
+2019-10-26 12:08:43,428 - INFO - Finish crawl area: fengtianlu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiulongpo_fengtianlu.csv
+2019-10-26 12:08:43,428 - INFO - http://cq.ke.com/xiaoqu/tongliang 1/
+2019-10-26 12:08:45,061 - INFO - Finish crawl area: dongbuxincheng, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangjing_dongbuxincheng.csv
+2019-10-26 12:08:45,064 - INFO - http://cq.ke.com/xiaoqu/bishan1/
+2019-10-26 12:08:45,402 - INFO - Finish crawl area: chayuanxinqu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/banan_chayuanxinqu.csv
+2019-10-26 12:08:45,407 - INFO - http://cq.ke.com/xiaoqu/beibeilaochengqu/
+2019-10-26 12:08:45,608 - INFO - Finish crawl area: qianjiang1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/pengshuimiaozutujiazuzizhixian_qianjiang1.csv
+2019-10-26 12:08:45,610 - INFO - http://cq.ke.com/xiaoqu/hechuan/
+2019-10-26 12:08:45,667 - INFO - http://cq.ke.com/xiaoqu/changshou/
+2019-10-26 12:08:45,714 - INFO - Finish crawl area: shizhu1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/zhongxian_shizhu1.csv
+2019-10-26 12:08:45,714 - INFO - http://cq.ke.com/xiaoqu/wanzhouqu/
+2019-10-26 12:08:46,066 - INFO - Finish crawl area: mawangxiang, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dadukou_mawangxiang.csv
+2019-10-26 12:08:46,068 - INFO - http://cq.ke.com/xiaoqu/fuling1/
+2019-10-26 12:08:46,236 - INFO - Finish crawl area: shipingqiao, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiulongpo_shipingqiao.csv
+2019-10-26 12:08:46,605 - INFO - Finish crawl area: yunyang1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/fengjiexian_yunyang1.csv
+2019-10-26 12:08:46,697 - INFO - Finish crawl area: buxingjie, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dadukou_buxingjie.csv
+2019-10-26 12:08:46,845 - INFO - Finish crawl area: huixing, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yubei_huixing.csv
+2019-10-26 12:08:47,550 - INFO - Finish crawl area: yunyang1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/fengjiexian_yunyang1.csv
+2019-10-26 12:08:47,760 - INFO - Finish crawl area: yudong2, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/banan_yudong2.csv
+2019-10-26 12:08:47,872 - INFO - Finish crawl area: dongmen1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangjing_dongmen1.csv
+2019-10-26 12:08:48,831 - INFO - Finish crawl area: fengjie, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/fengjiexian_fengjie.csv
+2019-10-26 12:08:49,129 - INFO - Finish crawl area: qianjiang1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/pengshuimiaozutujiazuzizhixian_qianjiang1.csv
+2019-10-26 12:08:49,459 - INFO - OK, start to crawl 重庆
+2019-10-26 12:08:49,962 - INFO - Finish crawl area: shuangshan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dadukou_shuangshan.csv
+2019-10-26 12:08:50,779 - INFO - Finish crawl area: wushanxian3, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/fengjiexian_wushanxian3.csv
+2019-10-26 12:08:51,147 - INFO - Finish crawl area: xiushan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/xiushantujiazumiaozuzizhixian_xiushan.csv
+2019-10-26 12:08:51,244 - INFO - Finish crawl area: liangping1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dianjiangxian_liangping1.csv
+2019-10-26 12:08:52,326 - INFO - Finish crawl area: langshanpianqu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangjing_langshanpianqu.csv
+2019-10-26 12:08:52,644 - INFO - Finish crawl area: pengshui, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/pengshuimiaozutujiazuzizhixian_pengshui.csv
+2019-10-26 12:08:52,922 - INFO - Finish crawl area: yunyang1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/fengjiexian_yunyang1.csv
+2019-10-26 12:08:53,799 - INFO - Finish crawl area: wulongxian1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/pengshuimiaozutujiazuzizhixian_wulongxian1.csv
+2019-10-26 12:08:53,841 - INFO - Finish crawl area: yangjiaping, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiulongpo_yangjiaping.csv
+2019-10-26 12:08:54,019 - INFO - Finish crawl area: caijia, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/beibei_caijia.csv
+2019-10-26 12:08:55,985 - INFO - Finish crawl area: shizhu1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/zhongxian_shizhu1.csv
+2019-10-26 12:08:57,035 - INFO - Finish crawl area: liangping1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dianjiangxian_liangping1.csv
+2019-10-26 12:08:59,120 - INFO - Finish crawl area: zhongxian1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/zhongxian_zhongxian1.csv
+2019-10-26 12:09:00,926 - INFO - Finish crawl area: jiugongmiao, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dadukou_jiugongmiao.csv
+2019-10-26 12:09:07,090 - INFO - Finish crawl area: chengbeixinqu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/beibei_chengbeixinqu.csv
+2019-10-26 12:09:09,989 - INFO - Finish crawl area: daping, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yuzhong_daping.csv
+2019-10-26 12:09:10,004 - INFO - Finish crawl area: daping, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yuzhong_daping.csv
+2019-10-26 12:09:11,748 - INFO - Finish crawl area: dianjiangxian1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/dianjiangxian_dianjiangxian1.csv
+2019-10-26 12:09:12,344 - INFO - Finish crawl area: bishan1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/bishan_bishan1.csv
+2019-10-26 12:09:13,839 - INFO - Finish crawl area: dazu1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/rongchangqu_dazu1.csv
+2019-10-26 12:09:14,110 - INFO - Finish crawl area: daping, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yuzhong_daping.csv
+2019-10-26 12:09:15,476 - INFO - Finish crawl area: guanyinqiao, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangbei_guanyinqiao.csv
+2019-10-26 12:09:15,826 - INFO - Finish crawl area: xiduan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/jiangjing_xiduan.csv
+2019-10-26 12:09:19,187 - INFO - Finish crawl area: kaizhouqu1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/kaizhouqu_kaizhouqu1.csv
+2019-10-26 12:09:19,443 - INFO - Finish crawl area: nanping, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/nanan_nanping.csv
+2019-10-26 12:09:20,008 - INFO - Finish crawl area: rongchang, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/rongchangqu_rongchang.csv
+2019-10-26 12:09:24,306 - INFO - Finish crawl area: shiqiaopu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yuzhong_shiqiaopu.csv
+2019-10-26 12:09:33,643 - INFO - Finish crawl area: tongliang 1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/tongliang_tongliang 1.csv
+2019-10-26 12:09:39,214 - INFO - Finish crawl area: chengnanxinqu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/beibei_chengnanxinqu.csv
+2019-10-26 12:09:40,253 - INFO - Finish crawl area: changshou, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/changshou1_changshou.csv
+2019-10-26 12:09:42,579 - INFO - Finish crawl area: shiqiaopu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yuzhong_shiqiaopu.csv
+2019-10-26 12:09:43,727 - INFO - Finish crawl area: hechuan, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/hechuang_hechuan.csv
+2019-10-26 12:09:48,517 - INFO - Finish crawl area: chaoyangqu4, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/beibei_chaoyangqu4.csv
+2019-10-26 12:09:48,966 - INFO - Finish crawl area: wanzhouqu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/wanzhou_wanzhouqu.csv
+2019-10-26 12:09:52,728 - INFO - Finish crawl area: wanzhouqu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/wanzhou_wanzhouqu.csv
+2019-10-26 12:09:52,800 - INFO - Finish crawl area: wanzhouqu, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/wanzhou_wanzhouqu.csv
+2019-10-26 12:09:55,412 - INFO - Finish crawl area: jiefangbei1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/yuzhong_jiefangbei1.csv
+2019-10-26 12:10:02,597 - INFO - Finish crawl area: bishan1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/bishan_bishan1.csv
+2019-10-26 12:11:13,557 - INFO - Finish crawl area: fuling1, save data to : C:\Users\Administrator\PycharmProjects\lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/fuling_fuling1.csv

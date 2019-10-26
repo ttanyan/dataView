@@ -31,7 +31,7 @@ import urllib.request
 
 from bs4 import BeautifulSoup
 
-from lianjia1.my_sqldb import insert_info, update_info, get_row, create_table
+from lianjia.my_sqldb import insert_info, update_info, get_row, create_table
 
 #importlib.reload(sys)
 #sys.setdefaultencoding('utf-8')

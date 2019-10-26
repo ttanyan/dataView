@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/Demo/my_sqldb.py" charset="US-ASCII" />
-    <file url="file://$PROJECT_DIR$/lianjia1/my_sqldb.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/lianjia-beike-spider/data/ke/ershou/cq/20191026/banan_bagongli.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lianjia-beike-spider/data/ke/ershou/cq/20191026/bishan_bishan1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lianjia-beike-spider/data/ke/ershou/cq/20191026/zhongxian_zhongxian1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lianjia-beike-spider/data/ke/loupan/cq/20191026/cq.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lianjia-beike-spider/data/ke/xiaoqu/cq/20191026/banan_bagongli.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lianjia/my_sqldb.py" charset="US-ASCII" />
   </component>
 </project>
